@@ -24,3 +24,4 @@ Ponadto
 
 ![a dog](/animals/dog.jpg)
 ![a cat](/animals/cat.jpg)
+Na obrazku jest kot
