@@ -23,3 +23,4 @@ Ponadto
 |to są   |elementy|
 
 ![a dog](/animals/dog.jpg)
+![a cat](/animals/cat.jpg)
