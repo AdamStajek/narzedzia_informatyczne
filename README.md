@@ -21,3 +21,5 @@ Ponadto
 |To jest | Tabela |
 |--------|--------|
 |to są   |elementy|
+
+![a dog](/animals/dog.jpg)
