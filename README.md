@@ -1,1 +1,5 @@
-# narzedzia_informatyczne
+#### narzedzia_informatyczne
+### Adam Stajek
+## FriendBy
+
+To jest zwykły tekst
