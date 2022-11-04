@@ -25,3 +25,7 @@ Ponadto
 ![a dog](/animals/dog.jpg)
 ![a cat](/animals/cat.jpg)
 Na obrazku jest kot
+
+Mateusz Świątek
+![a cat](/animals/cat_ms.jpg)
+![a cat](/animals/dog_ms.jpg)
