@@ -3,4 +3,4 @@
 ### FriendBy
 
 To jest zwykły tekst
-[the best reddit(https://www.reddit.com/r/learnprogramming/)]
+[the best reddit](https://www.reddit.com/r/learnprogramming/)
